@@ -1,0 +1,21 @@
+#Fundamental Data Types
+
+'''int
+float
+bool
+str
+list
+tuple
+set
+dict
+
+
+#Classes => custom types
+#Specialized Data Types
+
+None'''
+ 
+
+sum = 3 + 4
+
+print(sum)
